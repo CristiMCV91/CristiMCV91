@@ -26,38 +26,18 @@ I have experience in robotics, industrial microscopy, with 5+ years in robotic c
 
 <b>My GitHub Stats</b>
 
+<a href="https://github.com/CristiMCV91" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristiMCV91&langs_count=10&title_color=7b2cbf&text_color=000000&icon_color=3b82f6&bg_color=#FFFFFF&hide_border=true&locale=en&custom_title=Top%20Languages&border_color=d1d5db" alt="Top Languages" />
+</a>
+
+<br />
 <a href="http://www.github.com/CristiMCV91">
   <img src="https://github-readme-stats.vercel.app/api?username=CristiMCV91&show_icons=true&hide=&count_private=true&title_color=7b2cbf&text_color=000000&icon_color=3b82f6&bg_color=#FFFFFF&hide_border=true&border_color=d1d5db" alt="CristiMCV91's GitHub stats" />
 </a>
+
 
 <a href="http://www.github.com/CristiMCV91" style="border: 1px solid #d1d5db; padding: 5px; border-radius: 8px; display: inline-block;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CristiMCV91&bg_color=FFFFFF&title_color=7b2cbf&color=000000&line=3b82f6&point=7b2cbf&area=true" alt="GitHub Commits Graph" />
 </a>
 
 
-<a href="https://github.com/CristiMCV91" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristiMCV91&langs_count=10&title_color=7b2cbf&text_color=000000&icon_color=3b82f6&bg_color=#FFFFFF&hide_border=true&locale=en&custom_title=Top%20Languages&border_color=d1d5db" alt="Top Languages" />
-</a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center">
-  <a href="https://github.com/CristiMCV91/BreakoutGame" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CristiMCV91&repo=BreakoutGame&title_color=7b2cbf&text_color=000000&icon_color=3b82f6&bg_color=#FFFFFF&hide_border=true&locale=en&border_color=d1d5db" />
-  </a>
-
-  <a href="https://github.com/CristiMCV91/CocktailFinder" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CristiMCV91&repo=CocktailFinder&title_color=7b2cbf&text_color=000000&icon_color=3b82f6&bg_color=#FFFFFF&hide_border=true&locale=en&border_color=d1d5db" />
-  </a>
-</div>
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center">
-  <a href="https://github.com/CristiMCV91/PersonalLibraryDesktopApp" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CristiMCV91&repo=PersonalLibraryDesktopApp&title_color=7b2cbf&text_color=000000&icon_color=3b82f6&bg_color=#FFFFFF&hide_border=true&locale=en&border_color=d1d5db" />
-  </a>
-  <a href="https://github.com/CristiMCV91/TypingSpeedTest" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CristiMCV91&repo=TypingSpeedTest&title_color=7b2cbf&text_color=000000&icon_color=3b82f6&bg_color=#FFFFFF&hide_border=true&locale=en&border_color=d1d5db" />
-  </a>
-</div>
