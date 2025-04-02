@@ -1,4 +1,4 @@
-Hi 👋 My name is Cristian Macovei
+Hi 👋 My name is Cristian
 =================================
 
 Junior Software Developer
