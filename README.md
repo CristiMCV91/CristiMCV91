@@ -1,7 +1,7 @@
 Hi 👋 My name is Cristian
 =================================
 
-Junior Software Developer
+Jr. Software Developer
 -------------------------
 
 I have experience in robotics, industrial microscopy, with 5+ years in robotic cell integration and factory automation. I am passionate about programming and I am currently learning C# and Python programming languages
