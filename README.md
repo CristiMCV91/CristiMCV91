@@ -7,7 +7,7 @@ Junior Software Developer
 I have experience in robotics, industrial microscopy, with 5+ years in robotic cell integration and factory automation. I am passionate about programming and I am currently learning C# and Python programming languages
 
 * 🌍  I'm based in Bucharest, Romania
-* 🧠  I'm learning AI, ML, Bash
+* 🧠  I want to improve my skills in AI, ML, and Bash
 * 🤝  I'm open to collaborating on interesting projects that involve software for robotics and microscopy
 
 ### Skills
